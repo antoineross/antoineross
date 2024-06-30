@@ -1,12 +1,20 @@
 # 🏄‍♂️ Antoine Ross
 
-**`Digital Craftsman (Developer/IndieHacker)`**
+**`Jarvis (Developer/IndieHacker)`**
 
 I'm `@antoineross`, an indie hacker and I love deep learning. My journey began with a stubborn refusal to settle for a boring job, leading me down the thrilling path of indie hacking and open-source development.
 
 ## 🚀 About Me
 - 🧠 Passionate about training deep neural networks on large datasets.
-- 🛠 Building cool sh*t using Next.js, Python and Google Cloud. 
+- 🤖 Actively collaborating on the creation of valuable bots, including but not limited to chatbots of all kinds.
+- 🛠 Building cool stuff using Next.js, FastAPI, Docker, and more.
+- 🌐 Hosting applications seamlessly on Google Cloud Run.
+- 💡 Continuously learning and experimenting with the latest tech.
+
+## 🌟 Projects & Contributions
+- Built and deployed 5 websites for clients on Fiverr and LinkedIn.
+- Developing innovative solutions and sharing the process with the community.
+- Check out my repositories for various open-source projects and contributions.
 
 ## 📝 Writing & Sharing
 - 📖 I write in-depth articles on Medium, covering everything from AI to indie hacking. [Read my stories](https://medium.com/@antoineross)
@@ -16,45 +24,24 @@ I'm `@antoineross`, an indie hacker and I love deep learning. My journey began w
 - Have a question or want to collaborate? Reach out to me via email at `developer.antoine@gmail.com`.
 
 ## 🛠 Tech Stack
-- **Frontend**: Next.js, React
-- **Backend**: FastAPI, Node.js
-- **DevOps**: Docker, Google Cloud Run
-- **AI/ML**: TensorFlow, PyTorch, LLMs
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 ## 🌐 Find Me Online
-- **Twitter**: [@antoineross__](https://twitter.com/antoineross__)
-- **Medium**: [@antoineross](https://medium.com/@antoineross)
-- **Email**: developer.antoine@gmail.com
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoineross)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/antoineross__)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@antoineross)
 
 Join me on this journey as I build, learn, and share my experiences in the world of indie hacking and tech innovation. Let's create something amazing together!
 
 ---
 
 "Never give up on your dreams. Keep pushing forward, learning, and building. The sky's the limit!"
-
----
-
-### 🧰 Languages and Tools
-
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br />
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
 ### 📊 Stats
