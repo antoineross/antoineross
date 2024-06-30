@@ -1,6 +1,6 @@
 # 🏄‍♂️ Antoine Ross
 
-**`Jarvis (Developer/IndieHacker)`**
+**`Fullstack Developer`**
 
 I'm `@antoineross`, an indie hacker and I love deep learning. My journey began with a stubborn refusal to settle for a boring job, leading me down the thrilling path of indie hacking and open-source development.
 
@@ -21,7 +21,7 @@ I'm `@antoineross`, an indie hacker and I love deep learning. My journey began w
 - 🧠 I share my hacker/Tony Stark-style projects and other stories on Twitter. [Follow me](https://twitter.com/antoineross__)
 
 ## 📩 Get in Touch
-- Have a question or want to collaborate? Reach out to me via email at `developer.antoine@gmail.com`.
+- Have a question or want to collaborate? Reach out to me via email at [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:developer.antoine@gmail.com)
 
 ## 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -46,6 +46,3 @@ Join me on this journey as I build, learn, and share my experiences in the world
 
 ### 📊 Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=AntoineRoss&theme=gruvbox&border_radius=4.5)
-
-[website]: https://antoineross.com
-[medium]: 
