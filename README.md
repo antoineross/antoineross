@@ -2,7 +2,7 @@
 
 **`Fullstack Developer`**
 
-I'm `@antoineross`, an indie hacker and I love deep learning. My journey began with a stubborn refusal to settle for a boring job, leading me down the thrilling path of indie hacking and open-source development.
+I'm `@antoineross`, an indie hacker and I love deep learning. I build open-source projects for the common developer. I democratize code for a living. I wake up and think about democracy (in code), and I go to sleep dreaming about democratizing software (not satire).
 
 ## 🚀 About Me
 - 🧠 I have a deep fascination for neural networks.
