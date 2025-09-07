@@ -2,25 +2,16 @@
 
 **`Fullstack Developer`**
 
-I'm `@antoineross`, an indie hacker and I love deep learning. I build open-source projects for the common developer. I democratize code for a living. I wake up and think about democracy (in code), and I go to sleep dreaming about democratizing software (not satire).
+I'm `@antoineross`, an aspiring polymath with a deep obsession for futuristic tech.
 
 ## 🚀 About Me
-- 🧠 I have a deep fascination for neural networks.
-- 🤖 Actively collaborating on the creation of cool things.
-- 🛠 Building cool stuff using Next.js, and Python.
+- 🧠 I have a deep fascination for neural networks. I want to make JARVIS one day. 
+- 🤖 I am an electronics engineer and do some electronics work in my spare time. 
+- 🛠 I love math & software. More often than not I optimize things as a default.
 
 ## 📝 Writing & Sharing
-- 📖 I write in-depth articles on Medium, covering everything from AI to indie hacking. [Read my stories](https://medium.com/@antoineross)
-- 🧠 I share my hacker/Tony Stark projects and other stories on Twitter. [Follow me](https://twitter.com/antoineross__)
-
-## 🛠 Tech Stack
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+- 📖 I write sometimes. [Read my stories](https://medium.com/@antoineross)
+- 🧠 I share personal opinions and projects and other stories on Twitter. [Follow me](https://twitter.com/antoineross__)
 
 ## 🌐 Find Me Online
 Have a question or want to collaborate? Reach out to me in one of the following:
