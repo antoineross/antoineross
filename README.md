@@ -2,7 +2,8 @@ Hi i'm `@antoineross`, an aspiring polymath with a deep obsession for futuristic
 
 
 ## I do things
-- I write sometimes [Pick my brain](https://www.antoineross.com/blog)
+- I write sometimes [Pick my brain](https://www.antoineross.com/articles)
+- I write for technical blogs on [CoreMVP Blogs](https://www.coremvp.com/blog)
 - I share personal opinions and projects and other stories on Twitter [Follow me](https://twitter.com/antoineross__)
 
 ## find me online
